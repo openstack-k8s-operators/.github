@@ -5,7 +5,7 @@
 </div>
 
 # Docs:
-* [podified controlplane](https://github.com/openstack-k8s-operators/docs)
+* [dev docs](https://github.com/openstack-k8s-operators/dev-docs)
 * [external dataplane](https://openstack-k8s-operators.github.io/dataplane-operator/)
 * [adoption](https://openstack-k8s-operators.github.io/data-plane-adoption/)
 * [architectures](https://openstack-k8s-operators.github.io/architecture/)
